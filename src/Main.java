@@ -18,9 +18,9 @@ public class Main {
         curso2.setCargaHoraria(1);
 
         Curso curso3 = new Curso();
-        curso2.setTitulo("Curso 3");
-        curso2.setDescricao("Seja Protagonista nesse Bootcamp");
-        curso2.setCargaHoraria(1);
+        curso3.setTitulo("Curso 3");
+        curso3.setDescricao("Seja Protagonista nesse Bootcamp");
+        curso3.setCargaHoraria(1);
 
         Mentoria mentoria1 = new Mentoria();
         mentoria1.setTitulo("Mentoria 1");
